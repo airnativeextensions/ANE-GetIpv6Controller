@@ -1,4 +1,3 @@
-built by [distriqt //](https://airnativeextensions.com) 
 
 ![](images/hero.png)
 
@@ -29,8 +28,4 @@ Quick Example:
 var ipData:String = GetIpv6Controller.instance.getIpv6( "192.0.2.1" );
 ```
 
-
 ![](images/promo.png)
-
-
-
